@@ -11,7 +11,7 @@ __[Demo](http://igallen.github.io/)__
 **Install**
 ```
 $ npm install hexo-renderer-jade --save
-$ git clone https://github.com/GallenHU/hexo-theme-MStrict.git
+$ git clone https://github.com/GallenHu/hexo-theme-MStrict.git
 ```
 
 **Enable**
