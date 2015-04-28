@@ -4,7 +4,7 @@
 
 MStrict is A theme combines [Strict](https://github.com/unmric/hexo-theme-strict) & [Mabao](https://github.com/moretwo/hexo-theme)  for Hexo
 
-__[Demo](http://gallenhu.github.io/)__
+__[Demo](//blog.hinpc.com)__
 
 ## Installation
 
